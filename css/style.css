@@ -17,6 +17,7 @@ img{
 }
 
 h1 {
+  text-align: center;
   color: #71c9ce;
 
 }
@@ -28,4 +29,13 @@ h3 {
 
 table{
   margin-left: 38%;
+}
+
+li {
+  list-style-position: inside;
+  margin-left: 40%;
+}
+
+form{
+  text-align: center;
 }
