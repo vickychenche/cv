@@ -1,0 +1,41 @@
+.center {
+  text-align: center;
+}
+body {
+  background-color: #e3fdfd;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img{
+  height: 180px;
+}
+
+h1 {
+  text-align: center;
+  color: #71c9ce;
+
+}
+
+h3 {
+  color: #71c9ce;
+  text-align: center;
+}
+
+table{
+  margin-left: 38%;
+}
+
+li {
+  list-style-position: inside;
+  margin-left: 40%;
+}
+
+form{
+  text-align: center;
+}
